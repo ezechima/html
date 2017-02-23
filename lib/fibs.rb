@@ -12,6 +12,11 @@ def fibs(num)
 			
 		end
 	end
+aldjflsj  cjdfljs
+s af;jsdflsj sf
+
+fsdlfsljfslfs
+sfsdljfs
 
 	return fibarray[0..num-1]
 
