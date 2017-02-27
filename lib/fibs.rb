@@ -1,4 +1,7 @@
 #added a comment to describe the linear method
+def spec
+	#added a new spec definition to the master
+end
 
 def fibs(num)
 	fibarray =[1,1]
