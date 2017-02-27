@@ -36,4 +36,10 @@ def glow_feature1()
 	#my first glow feature..will commit it.
 end
 
+def glow_feature2()
+	#second glow feature
+	#I haven't tested what happens when he master moves on.
+	
+end
+
 
