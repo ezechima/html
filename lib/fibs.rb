@@ -12,11 +12,7 @@ def fibs(num)
 			
 		end
 	end
-aldjflsj  cjdfljs
-s af;jsdflsj sf
 
-fsdlfsljfslfs
-sfsdljfs
 
 	return fibarray[0..num-1]
 
@@ -30,5 +26,9 @@ def fibs_rec(num, a: =1, b:=1)
 	end
 	#num == 2 ? [1,1] : fibs_rec(num-1)<<fibs_rec(num-1)[num-2] + fibs_rec(num-1)[num-3]
 
+end
+def generalfeature1( )
+#this feature is just to show the normal progress of the master
+#next i'll try to simulate a particular feature i am tyring to implement
 end
 
