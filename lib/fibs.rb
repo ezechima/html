@@ -32,3 +32,8 @@ def generalfeature1( )
 #next i'll try to simulate a particular feature i am tyring to implement
 end
 
+def glow_feature1()
+	#my first glow feature..will commit it.
+end
+
+
